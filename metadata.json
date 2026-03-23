@@ -1,0 +1,7 @@
+{
+  "name": "Chat X",
+  "description": "A premium AI chatbot experience with real-time streaming, chat history, and a modern glassmorphism UI.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
